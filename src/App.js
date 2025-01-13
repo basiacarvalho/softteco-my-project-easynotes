@@ -26,7 +26,6 @@ function App() {
         return noteItem.key !== key;
       })
     })
-    console.log("Note was deleted");
   }
 
   useEffect(() => {
