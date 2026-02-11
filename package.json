@@ -1,8 +1,8 @@
 {
-  "name": "softteco-test-trainee",
+  "name": "softteco-my-project-easynotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://basiacarvalho.github.io/softteco-test-trainee/",
+  "homepage": "https://basiacarvalho.github.io/softteco-my-project-easynotes/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.0.0",
